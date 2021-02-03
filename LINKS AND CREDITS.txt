@@ -1,0 +1,11 @@
+https://github.com/APichu-afk/CG-Assignment-1 (Git Hub link)
+https://docs.google.com/presentation/d/1N5qUm4ojT-ixcu69wMATwKk9jeO4YckNKmqPyOqOV-4/edit?usp=sharing (Google slides Link)
+https://youtu.be/RboPEbvmT-o
+
+Base code from week 11 starter code from Intro to Computer graphics (Shawn Matthews)
+Random Tree effect taken from week 3 tutorial starter (Nicholas Juniper)
+Models and textures taken from our GDW game Birthday Splash Bash (Alexander Chow, Anita Lim, James Pham, Fredric Lai, Treyton Cowell)
+Toon shader code from Intro to Computer Graphics lecture week 10 (Richard Parrazi)
+
+Sorry about any background noise my brother was doing something in the background at the time 
+I forgot to go into the shader in the first video so i made a second and combine the two that is why the video says clideo.com at the bottom right
